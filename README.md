@@ -1,5 +1,3 @@
-# NikaYaschenkoQA
-my portfolio
 
 ![Header](https://github.com/YNikaQa/NikaYaschenkoQA/blob/main/assets/my_banner.png)
 
